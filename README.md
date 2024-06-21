@@ -1,6 +1,6 @@
 # Detecting Changes in Highly Attributed Dynamic Networks 
 
-This project is the code implementation for the Detecting Changes in Highly Attributed Dynamic Networks presented at the ICML 2024 LatinX workshop (link to come)[https://github.com/Emilianopp/MultiModalTwitterAnalysis/edit/master/README.md]. 
+This project is the code implementation for the Detecting Changes in Highly Attributed Dynamic Networks presented at the ICML 2024 LatinX workshop [link to come](https://github.com/Emilianopp/MultiModalTwitterAnalysis/edit/master/README.md). 
 
 ## Execution 
 
